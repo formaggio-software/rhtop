@@ -1,0 +1,95 @@
+rhtop Binary-Use License
+Version 1.0 — November 16, 2026
+Copyright (c) 2026 Formaggio LLC. All rights reserved.
+
+1. Agreement and scope
+This agreement is between Formaggio LLC ("Formaggio") and the individual using
+rhtop ("you"). By installing or using the proprietary rhtop executable, you
+accept these terms. If you do not agree, do not use it and delete your copies.
+This license covers executable distributions and accompanying proprietary
+materials, not the application source code. Downloading a release does
+not purchase a subscription or grant free use.
+
+2. License grant
+While you have an active, paid rhtop subscription, Formaggio grants you a limited,
+nonexclusive, nontransferable license to install and run the official executable
+on devices you own or control, solely for your own personal or internal business
+use. There is no device-count limit, but each individual user needs their own
+subscription. You may keep reasonable backup copies. You remain responsible for
+securing your devices, subscription account, and broker credentials. Separate
+written terms signed by Formaggio may expressly grant additional rights.
+
+3. Restrictions and ownership
+The software is licensed, not sold. Formaggio retains all rights not expressly
+granted. You may not share a subscription, sublicense, sell, rent, redistribute,
+or publicly host the proprietary executable or modified copies without written
+permission. You may not remove ownership notices, bypass license controls, or
+modify, decompile, disassemble, or reverse engineer the proprietary software,
+except to the extent applicable law gives you rights that cannot be restricted
+by agreement. No source-code, trademark, or endorsement rights are granted.
+Package availability through a public registry does not expand this license.
+
+4. Subscription, cancellation, and refunds
+Prices, currency, billing interval, taxes, and renewal disclosures shown at
+checkout apply to your order. A recurring subscription renews as disclosed at
+checkout until canceled. Manage cancellation in your signed-in account's billing
+settings or contact contact@formaggio.software for help. Cancellation stops future
+renewals; you may use rhtop through the end of the paid subscription period.
+After that period, or if your subscription otherwise expires, stop using the
+software and delete installed and backup copies. Retaining exported data does
+not require an active subscription. Refund requests are considered individually
+through contact@formaggio.software; no refund is promised beyond rights required
+by law or an express offer made at purchase. These terms do not limit mandatory
+withdrawal, refund, or other consumer rights.
+
+5. Third-party software and services
+Third-party components remain governed by their own licenses, supplied in
+THIRD_PARTY_NOTICES and associated metadata. Those licenses control those
+components if they conflict with this agreement. Preserve LICENSE.txt, NOTICE,
+and third-party notices with permitted copies. Robinhood, Clerk, and other
+services have separate terms and availability requirements. This license grants
+no access rights to those services. Formaggio is independent of, and is not
+endorsed by, Robinhood Markets, Inc.
+
+6. Functionality, updates, and financial information
+rhtop is a read-only dashboard and does not execute trades. Information may be
+incomplete, delayed, or inaccurate; verify it with your broker before acting.
+rhtop is not investment, tax, or financial advice. No particular return or
+financial outcome is promised. An active subscription permits use of updates
+made available for your plan, but does not guarantee future features, continuous
+service, compatibility, or support response times. Third-party changes may affect
+functionality. Obtain updates only through official distribution channels.
+
+7. Warranty disclaimer
+To the maximum extent permitted by applicable law, the software is provided
+"AS IS" and "AS AVAILABLE", without express or implied warranties, including
+merchantability, fitness for a particular purpose, and noninfringement.
+Formaggio does not warrant uninterrupted, error-free, or secure operation.
+Mandatory statutory warranties and consumer protections remain unaffected.
+
+8. Limitation of liability
+To the maximum extent permitted by applicable law, Formaggio is not liable for
+indirect, incidental, special, consequential, or punitive damages, lost profits,
+investment losses, or lost data arising from the software. Formaggio's aggregate
+liability arising from this agreement is limited to amounts you paid for rhtop
+in the twelve months preceding the event giving rise to the claim. These limits
+do not apply to fraud, willful misconduct, or liabilities that law does not allow
+to be excluded or limited, and do not reduce mandatory consumer remedies.
+
+9. Termination
+This license ends when your subscription expires. Formaggio may terminate it
+for a material breach that remains uncorrected thirty days after notice to your
+subscription email address; it may suspend use immediately where necessary to
+address unlawful activity or a security threat. On termination, stop using the
+software and delete your copies. Ownership, third-party rights, disclaimers,
+liability limits, and provisions intended to survive continue to apply.
+
+10. Versions and general terms
+The license supplied with a release governs that release. Posting revised terms
+alone does not retroactively change your agreement; materially different terms
+for future releases or subscription periods must be disclosed for acceptance.
+If a provision is unenforceable, the remaining provisions continue in effect.
+This agreement and the checkout disclosures constitute the agreement for the
+licensed use, subject to any separate written agreement with Formaggio and
+mandatory applicable law. Questions, permissions, billing, and support:
+contact@formaggio.software. Official terms: https://rhtop.dev/terms/.

@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+!.env.example
+.npmrc
+dist/
+*.tar.gz
+*.zip
+*.whl
+*.deb
+*.exe
+*.nupkg
+__pycache__/
+.DS_Store
+AGENTS.md

@@ -1,0 +1,14 @@
+rhtop
+Copyright (c) 2026 Formaggio LLC. All rights reserved.
+
+rhtop is proprietary, paid software. Use is governed by the binary-use license terms
+provided by Formaggio LLC. For subscription and licensing information, visit
+https://rhtop.dev or email contact@formaggio.software.
+
+Third-party dependencies retain their own licenses and notices, included in
+THIRD_PARTY_NOTICES with each binary release.
+
+rhtop is independent of and is not endorsed by Robinhood Markets, Inc.
+
+Executable use is governed by LICENSE.txt, supplied with binary distributions
+and published at https://rhtop.dev/terms/.
