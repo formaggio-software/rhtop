@@ -4,6 +4,19 @@ A read-only Robinhood MCP terminal dashboard for macOS, Linux, and Windows. View
 positions, orders, assets, and watchlists. rhtop never submits, previews, or
 cancels orders or changes watchlists.
 
+```text
+┌─ Overview ────┐ ┌─ Positions ─────────────────┐ ┌─ Assets & Watchlists─┐
+│               │ │ Symbol  Asset   Qty  Value  │ │ Crypto ▾             │
+│ Account   *** │ │ AAPL    equity  ***  ***    │ │ Search / filter      │
+│ Portfolio *** │ │ BTC     crypto  ***  ***    │ │ BTC-USD · Bitcoin    │
+│ Cash      *** │ └─────────────────────────────┘ │ ETH-USD · Ethereum   │
+│ Buying power  │ ┌─ Orders ────────────────────┐ │ DEMO-USD … 🚫 ALL    │
+│           *** │ │ Symbol  Side  State   Qty   │ │                      │
+│               │ │ AAPL    buy   queued  ***   │ │ Recent selections    │
+└───────────────┘ └─────────────────────────────┘ └──────────────────────┘
+q Quit   m Mask   r Refresh   p Pause   a Account   / Filter   l Layout   ? Help
+```
+
 This repository contains documentation and binary downloads for rhtop,
 proprietary, paid software owned by Formaggio LLC.
 Product, subscription, and account information: [rhtop.dev](https://rhtop.dev).
@@ -16,7 +29,15 @@ Find versioned downloads, checksums, and platform support in
 [Releases](https://github.com/formaggio-software/rhtop/releases).
 
 ```sh
-brew install formaggio-software/tap/rhtop
+pipx install rhtop
+```
+
+```sh
+choco install rhtop
+```
+
+```sh
+npm install -g @formaggio-software/rhtop
 ```
 
 For Debian/Ubuntu, follow [signed APT setup](https://github.com/formaggio-software/apt-repo#install).
