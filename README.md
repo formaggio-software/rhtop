@@ -34,12 +34,22 @@ pipx install rhtop
 ```
 
 ```sh
+sudo apt install rhtop
+```
+
+```sh
+brew install formaggio-software/tap/rhtop
+```
+
+```sh
 choco install rhtop
 ```
 
 ```sh
 npm install -g @formaggio-software/rhtop
 ```
+
+More info: [INSTALLERS.md](INSTALLERS.md)
 
 For Debian/Ubuntu, follow [signed APT setup](https://github.com/formaggio-software/apt-repo#install).
 PyPI, npm, and Chocolatey install commands are documented in
